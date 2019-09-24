@@ -1,0 +1,15 @@
+.user {
+  color: #bdc3c7;
+  font-size: 0.9rem;
+  padding: 7px;
+}
+
+.user__name {
+  color: rgba(0, 0, 0, 0.87);
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.user__username {
+  margin-left: 0.8em;
+}

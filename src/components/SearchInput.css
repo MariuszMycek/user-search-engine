@@ -1,0 +1,14 @@
+.form {
+  display: flex;
+  justify-content: center;
+  margin: 25px 0;
+}
+
+.form__input {
+  font-size: 1em;
+  padding: 3px 5px;
+}
+
+.form__input::placeholder {
+  color: #bdc3c7;
+}
